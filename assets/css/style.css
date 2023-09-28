@@ -840,12 +840,12 @@ main {
  * skills 
  */
 
-.skills-title { margin-bottom: 20px; margin-top:20px}
+.skills-title { margin-bottom:15px; margin-top:15px}
 
 .skills-list { padding: 20px; }
 
 
-.skills-item:not(:last-child) { margin-bottom: 15px; }
+/*.skills-item:not(:last-child) { margin-bottom: 5px;}*/
 
 .skill .title-wrapper {
   display: flex;
