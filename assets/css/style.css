@@ -824,7 +824,7 @@ main {
 }
 
 .timeline-date {
-  color: var(--white-1);
+  color: var(--white-2);
   font-weight: var(--fw-300);
   line-height: 1.6;
 }
