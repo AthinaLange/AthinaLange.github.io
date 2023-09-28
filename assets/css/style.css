@@ -832,6 +832,7 @@ main {
 .timeline-text {
   color: var(--light-gray);
   font-weight: var(--fw-300);
+  font-size: var(--fw-8);
   line-height: 1.6;
 }
 
