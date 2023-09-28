@@ -796,8 +796,8 @@ main {
 }
 
 .timeline-list span {
-  color: var(--vegas-gold);
-  font-weight: var(--fw-400);
+  color: var(--light-gray);
+  font-weight: var(--fw-500);
   line-height: 1.6;
 }
 
@@ -824,8 +824,8 @@ main {
 }
 
 .timeline-date {
-  color: var(--white-2);
-  font-weight: var(--fw-300);
+  color: var(--vegas-gold);
+  font-weight: var(--fw-400);
   line-height: 1.6;
 }
 
