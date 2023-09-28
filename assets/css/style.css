@@ -826,13 +826,13 @@ main {
 .timeline-date {
   color: var(--vegas-gold);
   font-weight: var(--fw-400);
+  font-size: var(--fw-8);
   line-height: 1.6;
 }
 
 .timeline-text {
   color: var(--light-gray);
   font-weight: var(--fw-300);
-  font-size: var(--fw-8);
   line-height: 1.6;
 }
 
