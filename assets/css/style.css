@@ -157,13 +157,14 @@ html { font-family: var(--ff-poppins); }
 
 /*body { background: var(--smoky-black); }*/
 
-        body {
-            background-image: url('assets/images_new/background.JPG');
-            background-size: cover; /* Adjust as needed */
-            background-repeat: no-repeat;
-        }
+    
 
-
+body {
+  background-image: url('assets/images_new/background.JPG'); /* Update the path to your image */
+  background-size: cover; /* Makes sure the image covers the whole screen */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repeating the image */
+}
 
 
 
